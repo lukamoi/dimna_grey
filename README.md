@@ -1,2 +1,2 @@
 # dimna_grey
-A web design for Old Castilian texts
+An initial web design for Old Castilian texts with both, dark and light themes.
